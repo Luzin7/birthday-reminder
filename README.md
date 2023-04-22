@@ -4,7 +4,7 @@ Projeto simples de um lembrete de aniversários feito em React.
 
 ## Como usar
 
-1. Clone o repositório com `git clone https://github.com/yourusername/birthday-reminder.git`
+1. Clone o repositório com `git clone https://github.com/Luzin7/birthday-reminder.git`
 2. Entre na pasta do projeto com `cd birthday-reminder`
 3. Instale as dependências do projeto com `npm install` ou `yarn`
 4. Rode o projeto com `npm start` ou `yarn start`
